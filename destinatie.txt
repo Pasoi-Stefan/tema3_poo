@@ -1,0 +1,34 @@
+3
+
+Constanta
+5
+relaxare plaja
+4
+vizitare biserica
+3
+drumetie oras
+5
+relaxare spa
+2
+vizitare muzeu
+3
+
+Buzau
+3
+drumetie munte
+13
+relaxare spa
+3
+vizitare cetate
+4
+
+Suceava
+4
+drumetie munte
+12
+relaxare spa
+4
+vizitare manastire
+3
+vizitare biserica
+4

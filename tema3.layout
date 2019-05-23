@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="destinatie.txt" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="citire.txt" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="284" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="turisti.txt" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="137" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="22" />
+			<Collapse line="27" />
+			<Collapse line="32" />
+			<Collapse line="38" />
+			<Collapse line="50" />
+			<Collapse line="60" />
+			<Collapse line="70" />
+			<Collapse line="89" />
+			<Collapse line="103" />
+			<Collapse line="125" />
+			<Collapse line="135" />
+			<Collapse line="144" />
+			<Collapse line="160" />
+			<Collapse line="187" />
+			<Collapse line="194" />
+			<Collapse line="202" />
+			<Collapse line="214" />
+			<Collapse line="227" />
+			<Collapse line="331" />
+			<Collapse line="392" />
+			<Collapse line="399" />
+			<Collapse line="425" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

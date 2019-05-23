@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558589139 source:d:\pasoi stefan\facultate\anul 1 - semestrul ii\poo\tema 3\tema3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
